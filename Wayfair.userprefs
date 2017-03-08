@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{D9C4335B-38C5-451F-962C-3282F3D617F8}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Wayfair/Tests.cs">
+    <Files>
+      <File FileName="Wayfair/Tests.cs" Line="53" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Wayfair PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
