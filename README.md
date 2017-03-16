@@ -1,14 +1,14 @@
 # Wayfair
 Automation Test Scripts for WayFair
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
